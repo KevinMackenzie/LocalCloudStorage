@@ -1,4 +1,6 @@
 # LocalCloudStorage (That's a boring name!)
+## Important
+I've lost inspiration for this project for the time being.  I may resume work on it in the future.
 ## More Info
 You can find the below text along with a lot more planning information [here](https://docs.google.com/document/d/12du6jhgV2ifR7IV8nfTaC20sdfsx8A39oGmF1N-Diu0/edit?usp=sharing)
 ## Motivation
